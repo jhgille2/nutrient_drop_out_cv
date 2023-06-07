@@ -1,0 +1,6 @@
+r-targets
+r-tarchetypes
+r-here
+r-tidyverse
+plantcv
+r-reticulate
